@@ -32,7 +32,7 @@ def csv_to_data(csv_file):
 
 scaler = StandardScaler()
 
-training_data, training_labels, train_bi = csv_to_data('samples/2022_2023_season_pl.csv')
+training_data, training_labels, train_bi = csv_to_data('samples/2022_2023_season_pl.csv') # Data from https://www.football-data.co.uk/englandm.php
 testing_data, testing_labels, test_bi = csv_to_data('samples/2021_2022_season_pl.csv')
 
 scaler.fit(training_data)
