@@ -1,0 +1,18 @@
+Relevant Columns:
+    Output: 
+        "FTHG" : Full time home goals
+        "FTAG" : Full time away goals
+
+    Input:
+        "MaxH" : Market maximum home win odds
+        "MaxD" : Market maximum draw win odds
+        "MaxA" : Market maximum away win odds
+        "AvgH" : Market average home win odds
+        "AvgD" : Market average draw win odds
+        "AvgA" : Market average away win odds
+        "MaxCH" : Closing maximum home win odds
+        "MaxCD" : Closing maximum draw win odds
+        "MaxCA" : Closing maximum away win odds
+        "AvgCH" : Closing average home win odds
+        "AvgCD" : Closing average draw win odds
+        "AvgCA" : Closing average away win odds
